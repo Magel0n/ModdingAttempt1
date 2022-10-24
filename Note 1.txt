@@ -1,0 +1,4 @@
+Right now I am deciding how i should do this whole idea.
+Most mods are published on Forge, so I think it would be logical to follow the trend.
+Another thimg is, i have barely any knowlage of github. I think i will have to experiment a little.
+One last thing, I should probably find some text editor.
